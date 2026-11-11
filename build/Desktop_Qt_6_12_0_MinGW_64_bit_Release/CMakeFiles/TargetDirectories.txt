@@ -1,0 +1,9 @@
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/SuperMarketBarcode.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/edit_cache.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/rebuild_cache.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/list_install_components.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/install.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/install/local.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/install/strip.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/SuperMarketBarcode_autogen_timestamp_deps.dir
+D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/CMakeFiles/SuperMarketBarcode_autogen.dir

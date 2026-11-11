@@ -1,0 +1,19 @@
+# ninja log v7
+24	465	8161043853947046	SuperMarketBarcode_autogen/timestamp	a7206fba3900662c
+24	465	8161043853947046	SuperMarketBarcode_autogen/mocs_compilation.cpp	a7206fba3900662c
+24	465	8161043853947046	D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/SuperMarketBarcode_autogen/timestamp	a7206fba3900662c
+24	465	8161043853947046	D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/SuperMarketBarcode_autogen/mocs_compilation.cpp	a7206fba3900662c
+470	606	8161043855187723	CMakeFiles/SuperMarketBarcode.dir/SuperMarketBarcode_autogen/mocs_compilation.cpp.obj	7249c04ed48af2d7
+476	3218	8161043855247753	CMakeFiles/SuperMarketBarcode.dir/main.cpp.obj	128d3ebb1a069c0c
+485	4920	8161043855331168	CMakeFiles/SuperMarketBarcode.dir/mainwindow.cpp.obj	594fc67d49e611b4
+4921	5305	8161043899706048	SuperMarketBarcode.exe	bd8ef527a8326744
+19	91	8161051843153611	CMakeFiles/clean.additional	7ccc65d38f719ba1
+91	117	8161051843992022	clean	7b037816d5af7aea
+59	516	8161051849621266	SuperMarketBarcode_autogen/timestamp	a7206fba3900662c
+59	516	8161051849621266	SuperMarketBarcode_autogen/mocs_compilation.cpp	a7206fba3900662c
+59	516	8161051849621266	D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/SuperMarketBarcode_autogen/timestamp	a7206fba3900662c
+59	516	8161051849621266	D:/ISE project barcode/SuperMarketBarcode/build/Desktop_Qt_6_12_0_MinGW_64_bit_Release/SuperMarketBarcode_autogen/mocs_compilation.cpp	a7206fba3900662c
+518	646	8161051851221675	CMakeFiles/SuperMarketBarcode.dir/SuperMarketBarcode_autogen/mocs_compilation.cpp.obj	7249c04ed48af2d7
+525	2620	8161051851271577	CMakeFiles/SuperMarketBarcode.dir/main.cpp.obj	128d3ebb1a069c0c
+536	3635	8161051851344817	CMakeFiles/SuperMarketBarcode.dir/mainwindow.cpp.obj	594fc67d49e611b4
+3635	3943	8161051882319246	SuperMarketBarcode.exe	bd8ef527a8326744
